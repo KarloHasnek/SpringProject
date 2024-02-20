@@ -1,0 +1,18 @@
+body {
+    background-image: url('bckgrnd.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.home-image {
+    width: 90%;
+    height: 100%;
+}
+
+.home-text {
+    color: white;
+}
